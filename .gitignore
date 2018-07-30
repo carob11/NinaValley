@@ -1,2 +1,4 @@
 *.dat
 results/
+results/plots
+results/data
