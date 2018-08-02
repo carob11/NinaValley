@@ -1,4 +1,7 @@
-*.dat
-results/
-results/plots
-results/data
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+src/*.o
+src/*.so
+src/*.dll
