@@ -1,12 +1,15 @@
 Package: NinaVall
 Type: Package
-Title: Graph
+Title: Graph Valley
 Version: 0.1.0
-Author: Who wrote it
-Maintainer: The package maintainer <yourself@somewhere.net>
+Author: Balsa G., Barrón C., Gutiérrez E., Hernádez G., Valdez C.
+Maintainer: Gabriel Balsas <yourself@somewhere.net>
 Description: The package graph valley region of bed files from Chipseq experiment
-License: What license is it under?
+License: Artist
 Encoding: UTF-8
 LazyData: true
 Imports: Rcpp (>= 0.12.18)
 LinkingTo: Rcpp
+Suggests: knitr,
+    rmarkdown
+VignetteBuilder: knitr
